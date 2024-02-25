@@ -1,0 +1,48 @@
+body {
+    font-family: Verdana, "Times New Romans", Tahoma, sans-serif;
+    color: rebeccapurple;
+}
+
+.title {
+    background-color: plum;
+    text-align: center;
+    font-size: 35px;
+    color: white;
+}
+
+.all {
+    color: red;
+    background-color: aquamarine;
+    margin: 5px 0;
+}
+
+#first {
+    color: black;
+}
+
+#two {
+    color: blueviolet;
+}
+
+#thirt {
+    color: palevioletred;
+}
+
+/* recipes */
+
+#titleC, #desc, #subTitle, #subTitle2{
+    background-color: pink;
+}
+
+
+.parrafo1, .parrafo2, .ingr, .mk {
+    color: black;
+    margin-bottom: 8px;
+}
+
+.imagen {
+    width: 380;
+    height: auto;
+    border-radius: 2%;
+}
+
