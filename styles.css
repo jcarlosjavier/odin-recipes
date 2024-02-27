@@ -1,6 +1,18 @@
 body {
     font-family: Verdana, "Times New Romans", Tahoma, sans-serif;
     color: rebeccapurple;
+    
+}
+
+.all button {
+    padding: 2px 8px;
+    margin: 0px auto 5px 0px;
+    width: 150px;
+    
+}
+
+.all {
+    color: rgb(147, 219, 39);
 }
 
 .title {
@@ -8,24 +20,21 @@ body {
     text-align: center;
     font-size: 35px;
     color: white;
+    
 }
 
-.all {
-    color: red;
-    background-color: aquamarine;
-    margin: 5px 0;
+
+#first button {
+    background-color: red;
 }
 
-#first {
-    color: black;
+#two button{
+    background-color: yellow;
 }
 
-#two {
-    color: blueviolet;
-}
-
-#thirt {
-    color: palevioletred;
+#thirt button{
+    background-color: orange;
+    
 }
 
 /* recipes Canelones */
